@@ -1,0 +1,44 @@
+.outer-container {
+    background-color: green;
+    height: 90vh;
+    width: 50vw;
+}
+
+.log-container {
+    background-color: aquamarine;
+    height: 6%;
+}
+
+.side-header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 89%;
+}
+
+.sidebar-container {
+    background-color: antiquewhite;
+    width: 40%;
+}
+
+.hedaer-container {
+    background-color: brown;
+    height: 40%;
+}
+
+.body-area {
+    height: 60%;
+    background-color: burlywood;
+}
+
+.body-text-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 61%;
+}
+
+.footer-container {
+    background-color: chocolate;
+    height: 5%;
+}

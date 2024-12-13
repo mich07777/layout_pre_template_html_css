@@ -1,0 +1,39 @@
+.outer-container {
+  background-color: green;
+  width: 50vw;
+  height: 90vh;
+}
+
+.log-container {
+  background-color: fuchsia;
+  height: 15%;
+}
+
+.navigation-container {
+  background-color: blanchedalmond;
+  height: 8%;
+}
+
+.sidebar-container {
+  background-color: red;
+  width: 25%;
+  height: 100%;
+}
+
+.body-container {
+  background-color: yellow;
+  width: 75%;
+  height: 100%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 70%;
+}
+
+.footer-container {
+  background-color: burlywood;
+  height: 7%;
+}

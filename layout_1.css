@@ -1,0 +1,56 @@
+.outer-container {
+    width: 50vw;
+    height: 90vh;
+    background-color: green;
+}
+
+.log-navi-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 6%;
+}
+
+
+.log-container {
+    background-color: antiquewhite;
+    width: 50%;
+    text-align: center;
+}
+
+.navigation-container{
+    background-color: red;
+    width: 50%;
+    text-align: center;
+}
+
+.hedaer-container {
+    background-color: white;
+    height: 10%;
+    text-align: center;
+}
+
+.introtextarea-container {
+    background-color: #FFEB3B;
+    height: 16%;
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: coral;
+    height: 63%;
+}
+
+.box {
+    width: 40%;
+    text-align: center;
+}
+
+.footer-container {
+    background-color: darkolivegreen;
+    height: 5%;
+    text-align: center;
+}
